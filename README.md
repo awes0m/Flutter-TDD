@@ -10,10 +10,13 @@ backend- numbersapi.com--- APIs
 # Folder Structure
 [text tutorial](https://resocoder.com/2019/08/27/)flutter-tdd-clean-architecture-course-1-explanation-project-structure/
 
-img: https://resocoder.com/2019/08/27/flutter-tdd-clean-architecture-course-1-explanation-project-structure.png
+[!img]: diagrams\Clean-Architecture-Flutter-Diagram.webp
 First create 2 folders [core] and [features]
 [core] folder contains the code that is common to the app
 [features] folder contains the code to implement various screens and features
+
+[!img]: diagrams\number_trivia-feature.webp
+
 
 each `feature` in [features] folder should contain:
 - a [data] folder
