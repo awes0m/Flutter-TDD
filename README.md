@@ -36,7 +36,7 @@ each `feature` in [features] folder should contain:
 - a [repositories] folder
 
 [domain] folder contains:
-- a [entities] folder
+- a [entities] folder - should contain data models
 - a [use_cases] folder
 - a [repositories] folder
 
